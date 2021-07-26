@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Unkn9wz
+# ✨ About Me! ✨
+👋 Hi, My name is Narawit Inyos. My nickname is Phyte
 - 👀 I’m interested in Machine Learning Projects
-- 🌱 I’m currently learning Tensorflow
-- 📫 How to reach me
--     Email: Unkn9wz@gmail.com
+- 🌱 I’m currently learning Tensorflow <br />
+#### 📫 How to reach me <br />
+- Email: Unkn9wz@gmail.com
 
-Face Detection
+# 🖥️ Face Detection 🖥️
 This function is used to implement opencv2 in its most basic form.
-Feature :
+#### Feature :
 - Can detect and save your face by number using your webcam.
 - Can recognize your face in a photo and save it as a number.
 
