@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning Projects
 - 🌱 I’m currently learning Tensorflow <br />
 #### 📫 How to reach me <br />
-- Email: Unkn9wz@gmail.com
+- Email: Phytes.narawit@gmail.com
 
 ## 🖥️ Face Detection 🖥️
 This function is used to implement opencv2 in its most basic form.
